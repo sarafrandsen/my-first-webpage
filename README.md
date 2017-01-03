@@ -2,7 +2,7 @@
 
 #### _First webpage created for Epicodus, 01/03/2017_
 
-#### By _**Sara Frandsen, Derek Villars, Keely Glenn**_
+#### _**By Sara Frandsen, Derek Villars, Keely Glenn**_
 
 ## Description
 
@@ -22,5 +22,6 @@ This is a simple webpage describing the things I will be learning as a student a
 
 ### License
 
-*Copyright (c) 2017 **_Sara Frandsen, Derek Villars, Keely Glenn_**
+*Copyright (c) 2017 **_Sara Frandsen, Derek Villars, Keely Glenn_***
+
 This software is licensed under the MIT license.
